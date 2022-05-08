@@ -1,6 +1,6 @@
 # Blog Website
 
-Made a full-stack blog-website using React, Node.js, MongoDB.
+Made a Mern Blog App using React, Node.js, MongoDB.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
